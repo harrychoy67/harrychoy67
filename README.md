@@ -13,7 +13,7 @@
 ## Prototype
 ![Wheelchair_bed](https://user-images.githubusercontent.com/91407897/134798444-5c903f76-b720-4750-be5f-74bf1e7a1aec.jpg)
 
-Smart Toilet system
+Smart Toilet system\n
 ![Wheelchair_bed_toilet](https://user-images.githubusercontent.com/91407897/134798490-5c5e1c5e-96c7-4a07-aa29-be942e350ab9.jpg)
 
 ## Dataset
