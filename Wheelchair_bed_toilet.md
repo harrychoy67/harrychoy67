@@ -1,4 +1,4 @@
-## 轮椅床 Wheelchair Bed with health monitoring system
+# 轮椅床 Wheelchair Bed with health monitoring system
 
 ---
 
@@ -19,15 +19,12 @@ This intelligent wheelchair bed with multifunctional functions combines the func
 
 ---
 
-## Smart Toilet system for the wheelchair bed 轮椅床智能马桶系统
+# Smart Toilet system for the wheelchair bed 轮椅床智能马桶系统
 Currently, the toilet allows the user to complete urination and defecation on the wheelchair bed, significantly reducing the nursing staff's labor intensity. Following defecation, the cleaning nozzle extends to clean the user's buttocks. When the cleaning is finished, the toilet's electric hot air blows around to dry the user's cleaned parts.
 
 ![Wheelchair_bed_toilet](https://user-images.githubusercontent.com/91407897/134798490-5c5e1c5e-96c7-4a07-aa29-be942e350ab9.jpg)
 
 ---
-
-## Dataset 训练数据集
-The dataset is currently not available due to privacy and safety concerns. Once the project is completed the we will upload the entire research results including the codes and data.  
 
 ## Urinalysis 尿液测试
 TBC
@@ -35,3 +32,6 @@ TBC
 
 ## Stool Analysis 粪便检查
 TBC
+
+### Dataset 训练数据集
+The dataset is currently not available due to privacy and safety concerns. Once the project is completed the we will upload the entire research results including the codes and data.  
