@@ -23,7 +23,9 @@ This intelligent wheelchair bed with multifunctional functions combines the func
 
 ![Wheelchair_bed_toilet](https://user-images.githubusercontent.com/91407897/134798490-5c5e1c5e-96c7-4a07-aa29-be942e350ab9.jpg)
 
-Smart Toilet system
+---
+
+## Smart Toilet system for the wheelchair bed 轮椅床智能马桶系统
 ## Dataset 训练数据集
 The dataset is currently not available due to privacy and safety concerns. Once the project is completed the we will upload the entire research results including the codes and data.  
 
